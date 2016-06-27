@@ -1,0 +1,74 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.banner {
+	width: 1000px;
+	height: 300px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.tea-banner {
+	display: table;
+	height: 263px;
+	background: url('../bg-gt.jpg') no-repeat top center;
+	position: relative;
+	width: 100%;
+	text-align: left;
+}
+.overlay {
+	display: table-cell;
+	vertical-align: top;
+}
+.overlay h3, h4, p {
+	padding-left: 10px;
+	margin: 0;
+}
+.overlay h3 {
+	font-size: 60px;
+	text-transform: uppercase;
+	padding-top: 15px;
+	color: #2c3312;
+	font-weight: normal;
+	font-weight: 400;
+	font-family: 'Mongolian Baiti';
+}
+.overlay h4 {
+	color: #2a4707;
+	font-weight: 400;
+	letter-spacing: 1px;
+	font-family: 'Bookman Old Style';
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 26px;
+               
+}
+.overlay p {
+	text-align: left;
+	color: #000;
+	font-size: 18px;
+	line-height: 24px;
+	padding-top: 18px;
+	font-family: 'Mongolian Baiti';
+	font-weight:500px;
+	letter-spacing: 0.3px;
+	text-align:justify;
+}
+.line-bottom {
+	width: 1000px;
+	height: 30px;
+	border: 1px solid #666;
+	background-color: #e3f2b6;
+	
+}
+.line-bottom p {
+	padding-top: 5px;
+	padding:5px;
+	text-align: center;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	letter-spacing: 0.3px;
+}
