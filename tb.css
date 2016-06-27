@@ -14,7 +14,7 @@ body {
 .tea-banner {
 	display: table;
 	height: 263px;
-	background: url('../bg-gt.jpg') no-repeat top center;
+	background: url('bg-gt.jpg') no-repeat top center;
 	position: relative;
 	width: 100%;
 	text-align: left;
