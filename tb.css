@@ -58,14 +58,13 @@ body {
 	text-align:justify;
 }
 .line-bottom {
-	width: 1000px;
+	width: 998px;
 	height: 30px;
 	border: 1px solid #666;
 	background-color: #e3f2b6;
 	
 }
 .line-bottom p {
-	padding-top: 5px;
 	padding:5px;
 	text-align: center;
 	font-family:Arial, Helvetica, sans-serif;
